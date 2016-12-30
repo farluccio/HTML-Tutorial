@@ -1,0 +1,19 @@
+body {
+  background-color: #cfe0f3;
+}
+
+.container {
+  background-color: #c3c9d0;
+  font-family: "Arial", sans-serif;
+  text-shadow: 3px 1px 2px;
+  border: 3px solid black;
+  box_shadow: 8px 8px 4px;
+}
+
+input {
+  cursor: text;
+}
+
+a checkbox  {
+cursor: pointer;
+}
