@@ -1,0 +1,35 @@
+body {
+	background-color: #cfe0f3;
+}
+
+.container {
+	background-color: #c3c9d0;
+	height: 200px;
+	width: 50%;
+	padding: 20px;
+	font-family: "Arial", sans-serif;
+	text-shadow: 2px 1px 2px #808080;
+	border: 1px solid ;
+	box-shadow: 8px 8px 4px;
+	vertical-align: top;
+}
+
+button {
+	display: block;
+	margin: 15px 0px;
+}
+.checkbox {
+	cursor: pointer;
+}
+
+input {
+  cursor: text;
+}
+
+a  {
+	cursor: pointer;
+}
+.passHelp {
+	font-size: .8em;
+	margin: 5px;
+}
